@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# base - convert between arbitrary bases.
+# base - convert numbers between arbitrary bases.
 # Copyright © 2011 Andreas Blixt
 # MIT license
 
